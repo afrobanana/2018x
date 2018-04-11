@@ -113,6 +113,22 @@ Example:
 
 1. Update `src/timetable/index.js` lines 97 & 98.
 
+---
+
+## Facebook Sharing
+
+**Image shown when sharing link to website**
+
+1. Upload a new image in `public/`
+2. The image should be named `shared-poster.png`
+3. Current size is `625x435`
+
+**Image shown when visitors do not have JS enabled**
+
+1. Upload a new image in `public/`. This can be the same as in `src/landing/poster.jpg`
+2. The image should be named `poster.png`
+3. Current size is `676x960`
+
 
 
 
