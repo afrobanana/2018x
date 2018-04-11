@@ -1,0 +1,21 @@
+.timetable {
+
+}
+.timetable-day-heading {
+    width: 100%;
+}
+.timetable .box.activity h3 {
+    color: #e785b7;
+}
+.timetable .time {
+    color: #fff;
+    font-style: normal;
+}
+.timetable .entry a {
+    color: #000;
+}
+
+.timetable .entry a em {
+    font-size: 0.8em;
+    font-style: normal;
+}
