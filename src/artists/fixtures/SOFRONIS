@@ -1,0 +1,19 @@
+import image from '../images/SOFRONIS-01.jpg'
+
+export const url = ' '
+export const photo = image
+
+// Markdown fields
+export const name = 'SOFRONIS *(CY)*'
+export const genres = '*WORLDS & TRIBAL* *NEW WAVE* *PSYCH ROCK*'
+export const text = `
+A musician and producer, the funky Spivak mostly works with analogue electronic instruments and enjoys blending together all sorts of genres in her DJ sets. Having released music on Greek labels, Nutty Wombat and Numb Capsule, she is an active participant in the Cypriot Honest Electronics label.
+`.trim()
+
+export default {
+  name,
+  genres,
+  url,
+  photo,
+  text,
+}
