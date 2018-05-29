@@ -1,0 +1,19 @@
+import image from '../images/DUDE-OF-STRATOSPHEAR-01.jpg'
+
+export const url = 'http://bit.ly/DUDEOF'
+export const photo = image
+
+// Markdown fields
+export const name = 'THE DUDE OF STRATOSPHEAR *(CH)* *(LIVE)*'
+export const genres = '*WORLD* *BEAT* *ELECTRONICS* *PSYCHEDELIC*'
+export const text = `
+A ---
+`.trim()
+
+export default {
+  name,
+  genres,
+  url,
+  photo,
+  text,
+}
