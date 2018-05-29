@@ -138,7 +138,82 @@ export default [
     stage: STAGE1,
   },
   
+  MAIN STAGE FRIDAY
   
-
-
+      {
+    id: 'MARCOS (OTHER STAGE)',
+    date: new Date('07/20/2018 19:30'),
+    stage: STAGE2,
+  },
+    {
+    id: 'MIGHT-SUGARCANE01',
+    date: new Date('07/20/2018 20:30'),
+    stage: STAGE2,
+  },
+    {
+    id: 'AFRODYSSEY ORCHESTRA',
+    date: new Date('07/20/2018 22:00'),
+    stage: STAGE2,
+  },
+      {
+    id: 'PENYA',
+    date: new Date('07/20/2018 23:30'),
+    stage: STAGE2,
+  },
+      {
+    id: 'RICOLOOP',
+    date: new Date('07/21/2018 01:00'),
+    stage: STAGE2,
+  },
+     
+  MAIN STAGE SATURDAY
+  {
+    id: 'MACUMBA',
+    date: new Date('07/21/2018 20:30'),
+    stage: STAGE2,
+  },
+      {
+    id: 'EBO TAYLOR',
+    date: new Date('07/21/2018 22:00'),
+    stage: STAGE2,
+  },
+      {
+    id: 'MINYATA',
+    date: new Date('07/21/2018 23:30'),
+    stage: STAGE2,
+  },
+      {
+    id: 'MAD-MAD-MAD',
+    date: new Date('07/22/2018 01:00'),
+    stage: STAGE2,
+  },
+  
+  BEACH STAGE
+      {
+    id: 'MARCOS (BEACH)',
+    date: new Date('07/22/2018 10:00'),
+    stage: STAGE3,
+  },
+      {
+    id: 'DUDE',
+    date: new Date('07/22/2018 12:00'),
+    stage: STAGE3,
+  },
+      {
+    id: 'SIXONESIX (BEACH)',
+    date: new Date('07/22/2018 14:00'),
+    stage: STAGE3,
+  },
+      {
+    id: 'PAUL-LAZA',
+    date: new Date('07/22/2018 16:00'),
+    stage: STAGE3,
+  },
+      {
+    id: 'COTSIOS O PIKATILLIS (BEACH)',
+    date: new Date('07/22/2018 18:00'),
+    stage: STAGE3,
+  },
+  
+  
 ]
