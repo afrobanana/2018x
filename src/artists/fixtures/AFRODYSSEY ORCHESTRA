@@ -1,4 +1,4 @@
-import image from '../images/AFRODYSSEY ORCHESTRA.gif'
+import image from '../images/AFRODYSSEY-ORCHESTRA.gif'
 
 export const url = 'http://bit.ly/AFRODYSSEY2'
 export const photo = image
