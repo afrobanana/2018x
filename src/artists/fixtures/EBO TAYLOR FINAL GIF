@@ -1,4 +1,4 @@
-import image from '../images/EBO TAYLOR FINAL GIF.png'
+import image from '../images/EBO-TAYLOR-FINAL.js'
 
 export const url = 'http://bit.ly/EBOTAYLOR'
 export const photo = image
