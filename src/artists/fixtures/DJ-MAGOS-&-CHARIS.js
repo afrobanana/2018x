@@ -1,6 +1,6 @@
 import image from '../images/magos-charis-01.jpg'
 
-export const url = ' '
+export const url = ''
 export const photo = image
 
 // Markdown fields
