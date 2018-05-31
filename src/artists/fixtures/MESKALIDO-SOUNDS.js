@@ -1,6 +1,6 @@
 import image from '../images/MESKALIDO-SOUNDS-01.jpg'
 
-export const url = 'https://www.facebook.com/christodoulos.hadji'
+export const url = ''
 export const photo = image
 
 // Markdown fields
