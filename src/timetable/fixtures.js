@@ -191,4 +191,56 @@ export default [
   },
   
   
+  //KIDS ZONE 
+       {
+    id: 'z-baby-maestro.js',
+    date: new Date('07/21/2018 11:30'),
+    stage: STAGE4,
+  },
+         {
+    id: 'z-children-concert.js',
+    date: new Date('07/21/2018 12:30'),
+    stage: STAGE4,
+  },
+           {
+    id: 'z-chris.js',
+    date: new Date('07/21/2018 11:00'),
+    stage: STAGE4,
+  },
+           {
+    id: 'z-elenisa-afigisi.js',
+    date: new Date('07/21/2018 14:30'),
+    stage: STAGE4,
+  },
+           {
+    id: 'z-elenitsa-workshop.js',
+    date: new Date('07/21/2018 11:30'),
+    stage: STAGE4,
+  },
+           {
+    id: 'z-family-yoga.js',
+    date: new Date('07/21/2018 10:00'),
+    stage: STAGE4,
+  },
+           {
+    id: 'z-julio.js',
+    date: new Date('07/21/2018 16:30'),
+    stage: STAGE4,
+  },
+           {
+    id: 'z-mexican-paramithi.js',
+    date: new Date('07/21/2018 13:30'),
+    stage: STAGE4,
+  },
+           {
+    id: 'z-natasa-percussion.js',
+    date: new Date('07/21/2018 18:30'),
+    stage: STAGE4,
+  },
+           {
+    id: 'z-world-voice.js',
+    date: new Date('07/21/2018 15:30'),
+    stage: STAGE4,
+  },
+  
 ]
