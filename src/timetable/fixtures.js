@@ -3,7 +3,7 @@ export const STAGE1 = {
   displayOrder: 0,
 }
 export const STAGE2 = {
-  name: 'In the woods',
+  name: 'THE WORLD STAGE',
   displayOrder: 1,
 }
 export const STAGE3 = {
@@ -11,94 +11,69 @@ export const STAGE3 = {
   type: 'activity',
   displayOrder: 2,
 }
+export const STAGE4 = {
+  name: "KIDS ZONE",
+  type: 'activity',
+  displayOrder: 2,
+}
 
 export default [
   {
-    id: 'ABR RADIO',
-    date: new Date('07/20/2018 23:00'),
-    stage: STAGE1,
-  },
+  //THE ARC FRIDAY
   {
-    id: 'sample-artist',
-    date: new Date('07/21/2018 04:30'),
-    stage: STAGE2,
-  },
-  {
-    id: 'sample-activity',
-    date: new Date('07/22/2018 18:00'),
-    stage: STAGE3,
-  },
-
-  THE ARC FRIDAY
-  {
-    id: 'B-MAN',
-    date: new Date('07/20/2018 23:00'),
-    stage: STAGE1,
-  },
-   {
-    id: 'ABR RADIO',
+    id: 'B-MAN.js',
     date: new Date('07/20/2018 23:00'),
     stage: STAGE1,
   },
     {
-    id: 'ABR RADIO',
-    date: new Date('07/20/2018 14:00'),
-    stage: STAGE1,
-  },
-    {
-    id: 'SPIVAK',
+    id: 'SPIVAK.js',
     date: new Date('07/20/2018 16:00'),
     stage: STAGE1,
   },
     {
-    id: 'APARAPIRA PARAPE',
+    id: 'APARAPIRA_PARAPE.js',
     date: new Date('07/20/2018 18:00'),
     stage: STAGE1,
   },
     {
-    id: 'BOMBASOUL',
+    id: 'BOMBASOUL.js',
     date: new Date('07/20/2018 20:00'),
     stage: STAGE1,
   },
     {
-    id: 'CHEVY',
+    id: 'CHEVY.js',
     date: new Date('07/20/2018 22:00'),
     stage: STAGE1,
   },
     {
-    id: 'AFROFOX',
+    id: 'AFROFOX.js',
     date: new Date('07/21/2018 00:00'),
     stage: STAGE1,
   },
     {
-    id: 'MOR ELIAN',
+    id: 'MOR-ELIAN.js',
     date: new Date('07/21/2018 02:00'),
     stage: STAGE1,
   },
   
-  THE ARC SATURDAY
+  //THE ARC SATURDAY
     {
-    id: 'CLAUDIO',
+    id: 'CLAUDIO.js',
     date: new Date('07/21/2018 09:30'),
     stage: STAGE1,
   },
     {
-    id: 'ABR RADIO',
-    date: new Date('07/20/2018 23:00'),
-    stage: STAGE1,
-  },
-    {
-    id: 'MESCALIDO SOUNDS',
+    id: 'MESKALIDO-SOUNDS.js',
     date: new Date('07/21/2018 11:30'),
     stage: STAGE1,
   },
     {
-    id: 'RUMBA ATTACK',
+    id: 'RUMBA-ATTACK.js',
     date: new Date('07/21/2018 13:30'),
     stage: STAGE1,
   },
     {
-    id: 'SOFRONIS',
+    id: 'SOFRONIS.js',
     date: new Date('07/21/2018 15:00'),
     stage: STAGE1,
   },
@@ -113,104 +88,104 @@ export default [
     stage: STAGE1,
   },
      {
-    id: 'SULTAN SHAKES',
+    id: 'SULTAN-SHAKES.js',
     date: new Date('07/21/2018 20:00'),
     stage: STAGE1,
   },
      {
-    id: 'SIXONESIX',
+    id: 'SIXONESIX.js',
     date: new Date('07/21/2018 21:00'),
     stage: STAGE1,
   },
      {
-    id: 'GEORGE D'ANDRE',
+    id: 'GEORGE-DANDRE.js',
     date: new Date('07/21/2018 15:00'),
     stage: STAGE1,
   },
-       {
-    id: 'ALEXIS',
+     {
+    id: 'ALEXI.js',
     date: new Date('07/22/2018 00:00'),
     stage: STAGE1,
   },
        {
-    id: 'ED DAVENPORT',
+    id: 'ED.js',
     date: new Date('07/22/2018 02:00'),
     stage: STAGE1,
   },
   
-  MAIN STAGE FRIDAY
+  //MAIN STAGE FRIDAY
   
       {
-    id: 'MARCOS (OTHER STAGE)',
+    id: 'MARCOS(OTHER STAGE).js',
     date: new Date('07/20/2018 19:30'),
     stage: STAGE2,
   },
     {
-    id: 'MIGHT-SUGARCANE01',
+    id: 'MIGHT-SUGARCANE01.js',
     date: new Date('07/20/2018 20:30'),
     stage: STAGE2,
   },
     {
-    id: 'AFRODYSSEY ORCHESTRA',
+    id: 'AFRODYSSEY-ORCHESTRA.js',
     date: new Date('07/20/2018 22:00'),
     stage: STAGE2,
   },
       {
-    id: 'PENYA',
+    id: 'PENYA.js',
     date: new Date('07/20/2018 23:30'),
     stage: STAGE2,
   },
       {
-    id: 'RICOLOOP',
+    id: 'RICOLOOP.js',
     date: new Date('07/21/2018 01:00'),
     stage: STAGE2,
   },
      
-  MAIN STAGE SATURDAY
+  //MAIN STAGE SATURDAY
   {
-    id: 'MACUMBA',
+    id: 'MACUMBA.js',
     date: new Date('07/21/2018 20:30'),
     stage: STAGE2,
   },
       {
-    id: 'EBO TAYLOR',
+    id: 'EBO-TAYLOR.js',
     date: new Date('07/21/2018 22:00'),
     stage: STAGE2,
   },
       {
-    id: 'MINYATA',
+    id: 'MINYATA.js',
     date: new Date('07/21/2018 23:30'),
     stage: STAGE2,
   },
       {
-    id: 'MAD-MAD-MAD',
+    id: 'MAD-MAD-MAD.js',
     date: new Date('07/22/2018 01:00'),
     stage: STAGE2,
   },
   
-  BEACH STAGE
+  //BEACH STAGE
       {
-    id: 'MARCOS (BEACH)',
+    id: 'MARCOS(BEACH).js',
     date: new Date('07/22/2018 10:00'),
     stage: STAGE3,
   },
       {
-    id: 'DUDE',
+    id: 'DUDE.js',
     date: new Date('07/22/2018 12:00'),
     stage: STAGE3,
   },
       {
-    id: 'SIXONESIX (BEACH)',
+    id: 'SIXONESIX(BEACH).js',
     date: new Date('07/22/2018 14:00'),
     stage: STAGE3,
   },
       {
-    id: 'PAUL-LAZA',
+    id: 'PAUL-LAZA.js',
     date: new Date('07/22/2018 16:00'),
     stage: STAGE3,
   },
       {
-    id: 'COTSIOS O PIKATILLIS (BEACH)',
+    id: 'COTSIOS(BEACH).js',
     date: new Date('07/22/2018 18:00'),
     stage: STAGE3,
   },
