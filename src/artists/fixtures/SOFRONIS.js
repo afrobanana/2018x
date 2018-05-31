@@ -1,6 +1,6 @@
 import image from '../images/SOFRONIS-01.jpg'
 
-export const url = ' '
+export const url = ''
 export const photo = image
 
 // Markdown fields
