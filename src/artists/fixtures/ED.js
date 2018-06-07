@@ -1,4 +1,4 @@
-import image from '../images/ED.gif'
+import image from '../images/ED.jpg'
 
 export const url = 'http://bit.ly/DAVENPORT'
 export const photo = image
