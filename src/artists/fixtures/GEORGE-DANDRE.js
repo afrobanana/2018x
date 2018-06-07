@@ -1,4 +1,4 @@
-import image from '../images/GEORGE-DANDRE-01.jpg'
+import image from '../images/GEORGE-DANDRE.jpg'
 
 export const url = 'https://soundcloud.com/georges-dandre'
 export const photo = image
