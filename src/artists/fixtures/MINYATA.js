@@ -1,4 +1,4 @@
-import image from '../images/MINYATA.gif'
+import image from '../images/MINYANTA.jpg'
 
 export const url = 'http://bit.ly/MINYANTA'
 export const photo = image
