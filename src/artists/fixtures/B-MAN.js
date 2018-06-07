@@ -1,4 +1,4 @@
-import image from '../images/BMAN-01.jpg'
+import image from '../images/BMAN.jpg'
 
 export const url = 'http://mixcloud.com/BMANINSPACE/ '
 export const photo = image
