@@ -1,4 +1,4 @@
-import image from '../images/COTSIOS-O-PIKATILLIS-01.jpg'
+import image from '../images/COTSIOS-O-PIKATILLIS.jpg'
 
 export const url = 'https://www.facebook.com/DjCotsiosoPikatillis/'
 export const photo = image
