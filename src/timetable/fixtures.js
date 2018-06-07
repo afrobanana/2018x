@@ -21,59 +21,59 @@ export default [
   {
   //THE ARC FRIDAY
   {
-    id: 'B-MAN.js',
+    id: 'B-MAN',
     date: new Date('07/20/2018 23:00'),
     stage: STAGE1,
   },
     {
-    id: 'SPIVAK.js',
+    id: 'SPIVAK',
     date: new Date('07/20/2018 16:00'),
     stage: STAGE1,
   },
     {
-    id: 'APARAPIRA_PARAPE.js',
+    id: 'APARAPIRA_PARAPE',
     date: new Date('07/20/2018 18:00'),
     stage: STAGE1,
   },
     {
-    id: 'BOMBASOUL.js',
+    id: 'BOMBASOUL',
     date: new Date('07/20/2018 20:00'),
     stage: STAGE1,
   },
     {
-    id: 'CHEVY.js',
+    id: 'CHEVY',
     date: new Date('07/20/2018 22:00'),
     stage: STAGE1,
   },
     {
-    id: 'AFROFOX.js',
+    id: 'AFROFOX',
     date: new Date('07/21/2018 00:00'),
     stage: STAGE1,
   },
     {
-    id: 'MOR-ELIAN.js',
+    id: 'MOR-ELIAN',
     date: new Date('07/21/2018 02:00'),
     stage: STAGE1,
   },
   
   //THE ARC SATURDAY
     {
-    id: 'CLAUDIO.js',
+    id: 'CLAUDIO',
     date: new Date('07/21/2018 09:30'),
     stage: STAGE1,
   },
     {
-    id: 'MESKALIDO-SOUNDS.js',
+    id: 'MESKALIDO-SOUNDS',
     date: new Date('07/21/2018 11:30'),
     stage: STAGE1,
   },
     {
-    id: 'RUMBA-ATTACK.js',
+    id: 'RUMBA-ATTACK',
     date: new Date('07/21/2018 13:30'),
     stage: STAGE1,
   },
     {
-    id: 'SOFRONIS.js',
+    id: 'SOFRONIS',
     date: new Date('07/21/2018 15:00'),
     stage: STAGE1,
   },
@@ -83,32 +83,32 @@ export default [
     stage: STAGE1,
   },
      {
-    id: 'THE DUDE OF STRATOSPHEAR',
+    id: 'DUDE-OF-STRATOSPHEAR',
     date: new Date('07/21/2018 19:00'),
     stage: STAGE1,
   },
      {
-    id: 'SULTAN-SHAKES.js',
+    id: 'SULTAN-SHAKES',
     date: new Date('07/21/2018 20:00'),
     stage: STAGE1,
   },
      {
-    id: 'SIXONESIX.js',
+    id: 'SIXONESIX',
     date: new Date('07/21/2018 21:00'),
     stage: STAGE1,
   },
      {
-    id: 'GEORGE-DANDRE.js',
+    id: 'GEORGE-DANDRE',
     date: new Date('07/21/2018 15:00'),
     stage: STAGE1,
   },
      {
-    id: 'ALEXI.js',
+    id: 'ALEXIS',
     date: new Date('07/22/2018 00:00'),
     stage: STAGE1,
   },
        {
-    id: 'ED.js',
+    id: 'ED',
     date: new Date('07/22/2018 02:00'),
     stage: STAGE1,
   },
@@ -116,131 +116,79 @@ export default [
   //MAIN STAGE FRIDAY
   
       {
-    id: 'MARCOS(OTHER STAGE).js',
+    id: 'MARCOS-OTHER-STAGE.js',
     date: new Date('07/20/2018 19:30'),
     stage: STAGE2,
   },
     {
-    id: 'MIGHT-SUGARCANE01.js',
+    id: 'MIGHT-SUGARCANE01',
     date: new Date('07/20/2018 20:30'),
     stage: STAGE2,
   },
     {
-    id: 'AFRODYSSEY-ORCHESTRA.js',
+    id: 'AFRODYSSEY-ORCHESTRA',
     date: new Date('07/20/2018 22:00'),
     stage: STAGE2,
   },
       {
-    id: 'PENYA.js',
+    id: 'PENYA',
     date: new Date('07/20/2018 23:30'),
     stage: STAGE2,
   },
       {
-    id: 'RICOLOOP.js',
+    id: 'RICOLOOP',
     date: new Date('07/21/2018 01:00'),
     stage: STAGE2,
   },
      
   //MAIN STAGE SATURDAY
   {
-    id: 'MACUMBA.js',
+    id: 'MACUMBA',
     date: new Date('07/21/2018 20:30'),
     stage: STAGE2,
   },
       {
-    id: 'EBO-TAYLOR.js',
+    id: 'EBO-TAYLOR',
     date: new Date('07/21/2018 22:00'),
     stage: STAGE2,
   },
       {
-    id: 'MINYATA.js',
+    id: 'MINYATA',
     date: new Date('07/21/2018 23:30'),
     stage: STAGE2,
   },
       {
-    id: 'MAD-MAD-MAD.js',
+    id: 'MAD-MAD-MAD',
     date: new Date('07/22/2018 01:00'),
     stage: STAGE2,
   },
   
   //BEACH STAGE
       {
-    id: 'MARCOS(BEACH).js',
+    id: 'MARCOS-BEACH',
     date: new Date('07/22/2018 10:00'),
     stage: STAGE3,
   },
       {
-    id: 'DUDE.js',
+    id: 'DUDE',
     date: new Date('07/22/2018 12:00'),
     stage: STAGE3,
   },
       {
-    id: 'SIXONESIX(BEACH).js',
+    id: 'SIXONESIX-BEACH',
     date: new Date('07/22/2018 14:00'),
     stage: STAGE3,
   },
       {
-    id: 'PAUL-LAZA.js',
+    id: 'PAUL-LAZA',
     date: new Date('07/22/2018 16:00'),
     stage: STAGE3,
   },
       {
-    id: 'COTSIOS(BEACH).js',
+    id: 'COTSIOS-BEACH',
     date: new Date('07/22/2018 18:00'),
     stage: STAGE3,
   },
   
-  
-  //KIDS ZONE 
-       {
-    id: 'z-baby-maestro.js',
-    date: new Date('07/21/2018 11:30'),
-    stage: STAGE4,
-  },
-         {
-    id: 'z-children-concert.js',
-    date: new Date('07/21/2018 12:30'),
-    stage: STAGE4,
-  },
-           {
-    id: 'z-chris.js',
-    date: new Date('07/21/2018 11:00'),
-    stage: STAGE4,
-  },
-           {
-    id: 'z-elenisa-afigisi.js',
-    date: new Date('07/21/2018 14:30'),
-    stage: STAGE4,
-  },
-           {
-    id: 'z-elenitsa-workshop.js',
-    date: new Date('07/21/2018 11:30'),
-    stage: STAGE4,
-  },
-           {
-    id: 'z-family-yoga.js',
-    date: new Date('07/21/2018 10:00'),
-    stage: STAGE4,
-  },
-           {
-    id: 'z-julio.js',
-    date: new Date('07/21/2018 16:30'),
-    stage: STAGE4,
-  },
-           {
-    id: 'z-mexican-paramithi.js',
-    date: new Date('07/21/2018 13:30'),
-    stage: STAGE4,
-  },
-           {
-    id: 'z-natasa-percussion.js',
-    date: new Date('07/21/2018 18:30'),
-    stage: STAGE4,
-  },
-           {
-    id: 'z-world-voice.js',
-    date: new Date('07/21/2018 15:30'),
-    stage: STAGE4,
-  },
-  
+
 ]
