@@ -1,4 +1,4 @@
-import image from '../images/SULTAN-SHAKES-01.jpg'
+import image from '../images/SULTAN-SHAKES.jpg'
 
 export const url = 'http://bit.ly/SULTANSHAKES'
 export const photo = image
