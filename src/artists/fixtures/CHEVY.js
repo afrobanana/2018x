@@ -1,4 +1,4 @@
-import image from '../images/CHEVY-01.jpg'
+import image from '../images/CHEVY.jpg'
 
 export const url = 'https://www.mixcloud.com/vsevdalis/'
 export const photo = image
