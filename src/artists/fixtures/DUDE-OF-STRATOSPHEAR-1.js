@@ -1,4 +1,4 @@
-import image from '../images/dude-01.jpg'
+import image from '../images/DUDE-OF-STRATOSPHEAR-1.jpg'
 
 export const url = 'http://bit.ly/DUDEOF'
 export const photo = image
