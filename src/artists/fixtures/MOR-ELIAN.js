@@ -1,4 +1,4 @@
-import image from '../images/MOR.png'
+import image from '../images/MOR-ELIAN.jpg'
 
 export const url = 'http://bit.ly/MORELIAN'
 export const photo = image
