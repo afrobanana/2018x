@@ -1,4 +1,4 @@
-import image from '../images/SPIVAK-01.jpg'
+import image from '../images/SPIVAK.jpg'
 
 export const url = 'https://soundcloud.com/mspivak'
 export const photo = image
