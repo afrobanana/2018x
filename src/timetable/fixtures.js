@@ -1,14 +1,16 @@
 export const STAGE1 = {
   name: 'THE ARC',
+  type:
   displayOrder: 0,
 }
 export const STAGE2 = {
   name: 'THE WORLD',
+  type:
   displayOrder: 1,
 }
 export const STAGE3 = {
   name: 'THE BEACH',
-  type: 'activity',
+  type:
   displayOrder: 2,
 }
 export const STAGE4 = {
