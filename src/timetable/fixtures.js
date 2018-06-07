@@ -3,7 +3,7 @@ export const STAGE1 = {
   displayOrder: 0,
 }
 export const STAGE2 = {
-  name: 'THE WORLD STAGE',
+  name: 'THE WORLD',
   displayOrder: 1,
 }
 export const STAGE3 = {
@@ -12,7 +12,7 @@ export const STAGE3 = {
   displayOrder: 2,
 }
 export const STAGE4 = {
-  name: "KIDS ZONE",
+  name: "KIDS INNOVATION",
   type: 'activity',
   displayOrder: 2,
 }
