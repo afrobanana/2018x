@@ -7,18 +7,17 @@ export const STAGE2 = {
   displayOrder: 1,
 }
 export const STAGE3 = {
-  name: "THE BEACH",
+  name: 'THE BEACH',
   type: 'activity',
   displayOrder: 2,
 }
 export const STAGE4 = {
-  name: "KIDS INNOVATION",
+  name: 'KIDS INNOVATION',
   type: 'activity',
   displayOrder: 2,
 }
 
 export default [
-  {
   //THE ARC FRIDAY
   {
     id: 'B-MAN',
@@ -55,7 +54,7 @@ export default [
     date: new Date('07/21/2018 02:00'),
     stage: STAGE1,
   },
-  
+
   //THE ARC SATURDAY
     {
     id: 'CLAUDIO',
@@ -112,9 +111,9 @@ export default [
     date: new Date('07/22/2018 02:00'),
     stage: STAGE1,
   },
-  
+
   //MAIN STAGE FRIDAY
-  
+
       {
     id: 'MARCOS-OTHER-STAGE.js',
     date: new Date('07/20/2018 19:30'),
@@ -140,7 +139,7 @@ export default [
     date: new Date('07/21/2018 01:00'),
     stage: STAGE2,
   },
-     
+
   //MAIN STAGE SATURDAY
   {
     id: 'MACUMBA',
@@ -162,7 +161,7 @@ export default [
     date: new Date('07/22/2018 01:00'),
     stage: STAGE2,
   },
-  
+
   //BEACH STAGE
       {
     id: 'MARCOS-BEACH',
@@ -189,6 +188,6 @@ export default [
     date: new Date('07/22/2018 18:00'),
     stage: STAGE3,
   },
-  
+
 
 ]

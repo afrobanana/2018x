@@ -1,4 +1,4 @@
-import image from '../images/BOMBASOUL-01.jpg'
+import image from '../images/Bombasoul-01.jpg'
 
 export const url = 'www.mixcloud.com/bombasoul'
 export const photo = image
