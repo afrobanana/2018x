@@ -1,4 +1,4 @@
-import image from '../images/sixonesix-02.jpg'
+import image from '../images/SIXONESIX-02.jpg'
 
 export const url = ' '
 export const photo = image
