@@ -1,4 +1,4 @@
-import image from '../images/ricoloop-01.jpg'
+import image from '../images/RICOLOOP.jpg'
 
 export const url = 'http://bit.ly/RICO18'
 export const photo = image
