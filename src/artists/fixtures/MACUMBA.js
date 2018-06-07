@@ -1,4 +1,4 @@
-import image from '../images/MACUMBA-01.jpg'
+import image from '../images/MACUMBA.jpg'
 
 export const url = 'www.youtube.com/watch?v=oQSC4eMOVQs'
 export const photo = image
