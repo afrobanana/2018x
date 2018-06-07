@@ -1,4 +1,4 @@
-import image from '../images/RUMBA-ATTACK-01.jpg'
+import image from '../images/RUMBA-ATTACK.jpg'
 
 export const url = 'http://rumbaattack.com/rumba-attack-cyprus/'
 export const photo = image
