@@ -1,4 +1,4 @@
-import image from '../images/MARCOS-01.jpg'
+import image from '../images/MARCOS-02.jpg'
 
 export const url = 'https://www.facebook.com/christodoulos.hadji'
 export const photo = image
