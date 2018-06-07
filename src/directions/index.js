@@ -64,7 +64,7 @@ export default class Directions extends PureComponent {
         <div className="maps box-container">
           <Thumbnail className="box">
             <a
-              href="https://www.google.com/maps/place/The+Afro+Banana+Republic+Festival/@34.87393,33.366545,11z/data=!4m5!3m4!1s0x0:0xbd7734f7a94bf975!8m2!3d34.902901!4d33.402487?hl=en-GB"
+              href="https://www.google.com/maps/place/The+Afro+Banana+Republic+Festival/@34.8126483,33.5318724,15.5z/data=!4m5!3m4!1s0x14de04a7d9365cb9:0xbd7734f7a94bf975!8m2!3d34.8132764!4d33.5382322"
               target="_blank"
               rel="noopener noreferrer"
             >
