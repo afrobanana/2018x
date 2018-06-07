@@ -1,4 +1,4 @@
-import image from '../images/MESKALIDO-SOUNDS-01.jpg'
+import image from '../images/MESKALIDO-SOUNDS.jpg'
 
 export const url = ''
 export const photo = image
