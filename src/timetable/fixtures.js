@@ -164,7 +164,7 @@ export default [
     stage: STAGE3,
   },
       {
-    id: 'MAD-MAD-MAD',
+    id: 'MADMADMAD',
     date: new Date('07/22/2018 01:00'),
     stage: STAGE3,
   },
@@ -181,7 +181,7 @@ export default [
     stage: STAGE4,
   },
       {
-    id: 'SIXONESIX-2',
+    id: 'SIXONESIX-02',
     date: new Date('07/22/2018 14:00'),
     stage: STAGE4,
   },
