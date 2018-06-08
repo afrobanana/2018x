@@ -1,6 +1,6 @@
-import image from '../images/Bombasoul.jpg'
+import image from '../images/BOMBASOUL.jpg'
 
-export const url = 'www.mixcloud.com/bombasoul'
+export const url = 'http://www.mixcloud.com/bombasoul'
 export const photo = image
 
 // Markdown fields

@@ -1,24 +1,24 @@
 export const STAGE1 = {
   name: 'Daytime at THE ARC',
-  type:
+  type: '',
   displayOrder: 0,
 }
 export const STAGE2 = {
   name: 'Night Time at THE ARC',
-  type:
+  type: '',
   displayOrder: 1,
 }
 export const STAGE3 = {
   name: 'THE WORLD',
-  type:
+  type: '',
   displayOrder: 2,
 }
 export const STAGE4 = {
   name: 'THE BEACH',
-  type:
+  type: '',
   displayOrder: 3,
 }
-export const STAGE4 = {
+export const STAGE5 = {
   name: 'KIDS INNOVATION',
   type: 'activity',
   displayOrder: 4,
