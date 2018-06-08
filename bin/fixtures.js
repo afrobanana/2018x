@@ -24,7 +24,7 @@ paths.forEach(path => {
     ).filter(f =>
         !!f
     ).forEach(f => {
-        const fNorm = f.replace(/[\d\W]+/g, '')
+        const fNorm = f.replace(/[\W]+/g, '')
         imports.push(`import ${ fNorm } from './${ f }'`)
         entities.push(`'${ f }': { ...${ fNorm }, id: '${ f }' }`)
     })
