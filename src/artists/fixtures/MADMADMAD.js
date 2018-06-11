@@ -7,7 +7,7 @@ export const photo = image
 export const name = 'MADMADMAD *(UK)* *(LIVE)*'
 export const genres = '*DISCO*'
 export const text = `
-Ready for Mad Mad Mad? This unique band’s music can best be described as ‘bonkers electro meets techno stomper’. An electro, krauf, funk outfit, they’ve been influenced by Liquid Liquid, Black Devil Disco Club and the Residents. And they’ll be causing a storm at the festival as they perform a live bass and drum rhythm section with a station of electronics. We. Can’. Wait!
+Ready for MadMadMad? This unique band’s music can best be described as ‘bonkers electro meets techno stomper’. An electro, krauf, funk outfit, they’ve been influenced by Liquid Liquid, Black Devil Disco Club and the Residents. And they’ll be causing a storm at the festival as they perform a live bass and drum rhythm section with a station of electronics. We. Can’t. Wait!
 `.trim()
 
 export default {
