@@ -100,12 +100,12 @@ export default [
   },
      {
     id: 'SIXONESIX-01',
-    date: new Date('07/21/2018 21:00'),
+    date: new Date('07/20/2018 20:00'),
     stage: STAGE2,
   },
      {
     id: 'GEORGE-DANDRE',
-    date: new Date('07/21/2018 15:00'),
+    date: new Date('07/21/2018 22:00'),
     stage: STAGE2,
   },
      {
@@ -181,13 +181,8 @@ export default [
     stage: STAGE4,
   },
       {
-    id: 'SIXONESIX-02',
-    date: new Date('07/22/2018 14:00'),
-    stage: STAGE4,
-  },
-      {
     id: 'PAUL-LAZA',
-    date: new Date('07/22/2018 16:00'),
+    date: new Date('07/22/2018 14:00'),
     stage: STAGE4,
   },
       {
