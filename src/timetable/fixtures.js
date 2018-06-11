@@ -14,7 +14,7 @@ export const STAGE3 = {
   displayOrder: 2,
 }
 export const STAGE4 = {
-  name: 'THE BEACH',
+  name: 'THE SUNDAY',
   type: '',
   displayOrder: 3,
 }
@@ -43,8 +43,8 @@ export default [
   },
     {
     id: 'BOMBASOUL',
-    date: new Date('07/20/2018 20:00'),
-    stage: STAGE2,
+    date: new Date('07/22/2018 16:00'),
+    stage: STAGE4,
   },
     {
     id: 'CHEVY',
