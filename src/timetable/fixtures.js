@@ -28,7 +28,7 @@ export default [
   //THE ARC FRIDAY
   {
     id: 'B-MAN',
-    date: new Date('07/20/2018 23:00'),
+    date: new Date('07/20/2018 14:00'),
     stage: STAGE1,
   },
     {
