@@ -3,11 +3,11 @@ import image from '../images/MOUSIKOTAXIDI.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'Take flight with AcroYoga Jam'
+export const name = 'A MUSICAL TRIP AROUND THE WORLD'
 export const text = `
-Dissolve your fears and tap into new and infinite possibilities of communication, trust, and union with a unique AcroYoga Jam. Combining acrobatics, yoga, and healing arts, the practice of AcroYoga has built a community of active teachers and practitioners all over the world and the ABR Festival will now witness special guest and Jambassador of AcroYoga International for Cyprus, Skevi Tofaridou Chrysou, sharing her knowledge and passion about healthier and mindful-conscious living with all of you! Prepare for an exciting blend of yoga wisdom, the dynamism of acrobatics, and the loving kindness of healing arts.
+Children first learn about the world through music; and this engaging workshop will be one of those lessons they never forget! Send your intrepid young Bananians on a musical voyage around the world; and along the way, they’ll be introduced to new melodies, beats and rhythms from places and cultures beyond their wildest dreams. It’s all about inspiring creative expression and igniting cultural curiosity in the next generation, showing them how to use musical instruments, their bodies and their voices to express themselves, in a safe environment where everyone is equal and team work is encouraged.
 
-**Capacity:** No limits
+**Capacity:** 25 Participants
 
 **Duration:** 1 hour
 
