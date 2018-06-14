@@ -11,7 +11,7 @@ The practice of Yin & Yang Yoga helps us to learn about stillness in movement an
 
 **Duration:** 75 min
 
-**Age Group:**  16 yrs - adulthood
+**Age Group:**  16+
 `.trim()
 
 export default {
