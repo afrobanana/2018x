@@ -3,15 +3,15 @@ import image from '../images/KIDSYOGA.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'Take flight with AcroYoga Jam'
+export const name = 'SUMMER YOGA GAMES FOR LITTLE ONES'
 export const text = `
-Dissolve your fears and tap into new and infinite possibilities of communication, trust, and union with a unique AcroYoga Jam. Combining acrobatics, yoga, and healing arts, the practice of AcroYoga has built a community of active teachers and practitioners all over the world and the ABR Festival will now witness special guest and Jambassador of AcroYoga International for Cyprus, Skevi Tofaridou Chrysou, sharing her knowledge and passion about healthier and mindful-conscious living with all of you! Prepare for an exciting blend of yoga wisdom, the dynamism of acrobatics, and the loving kindness of healing arts.
+Let’s take a trip to the beach! During this interactive yoga workshop, children will explore all the fun ways that we can use our bodies to mimic the shapes, movements and behaviours the sea creatures that live beneath the waves. Introducing mini yogi’s-in-the-making to salutations, breathing techniques and yogic games, this expertly led workshop is equal parts energy and fun; and equal parts relaxation, all in a safe, non-competitive environment where your little ones can thrive!
 
-**Capacity:** No limits
+**Capacity:** 15 Participants
 
 **Duration:** 1 hour
 
-**Age Group:**  All ages
+**Age Group:**  Children aged 4 - 12 yrs
 `.trim()
 
 export default {
