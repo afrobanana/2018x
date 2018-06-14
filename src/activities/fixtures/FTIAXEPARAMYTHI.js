@@ -3,15 +3,15 @@ import image from '../images/FTIAXEPARAMYTHI.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'Take flight with AcroYoga Jam'
+export const name = 'ΦΤΙΑΞΕ ΠΑΡΑΜΥΘΙ'
 export const text = `
-Dissolve your fears and tap into new and infinite possibilities of communication, trust, and union with a unique AcroYoga Jam. Combining acrobatics, yoga, and healing arts, the practice of AcroYoga has built a community of active teachers and practitioners all over the world and the ABR Festival will now witness special guest and Jambassador of AcroYoga International for Cyprus, Skevi Tofaridou Chrysou, sharing her knowledge and passion about healthier and mindful-conscious living with all of you! Prepare for an exciting blend of yoga wisdom, the dynamism of acrobatics, and the loving kindness of healing arts.
+Growing in a secret corner of Afrobanana Republic Festival this year, is The Majestic Music Tree; an enchanting place where the imagination is sparked, and fairy tales come to life. Music educator and storyteller Elenička Georgiou, and photographer Anca Clivet, have joined forces to co-create this interactive workshop, taking children on a journey of fantasy, deep into the world of magic, where they will create stories all of their own based on inspiring and expressive artistic photographs.
 
-**Capacity:** No limits
+**Capacity:** 20 Participants
 
 **Duration:** 1 hour
 
-**Age Group:**  All ages
+**Age Group:**  Children aged 6 - 12 yrs
 `.trim()
 
 export default {
