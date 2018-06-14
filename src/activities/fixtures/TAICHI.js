@@ -3,9 +3,9 @@ import image from '../images/TAICHI.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'Take flight with AcroYoga Jam'
+export const name = 'SUNSET TAI CHI'
 export const text = `
-Dissolve your fears and tap into new and infinite possibilities of communication, trust, and union with a unique AcroYoga Jam. Combining acrobatics, yoga, and healing arts, the practice of AcroYoga has built a community of active teachers and practitioners all over the world and the ABR Festival will now witness special guest and Jambassador of AcroYoga International for Cyprus, Skevi Tofaridou Chrysou, sharing her knowledge and passion about healthier and mindful-conscious living with all of you! Prepare for an exciting blend of yoga wisdom, the dynamism of acrobatics, and the loving kindness of healing arts.
+Join instructor Loizos on the beach at sunset, to balance, relax and calm the body and mind through the healing energy of Tai Chi and Qigong. These widespread Chinese Arts have been practiced for hundreds of years and by millions of people all around the world. And while the advantages have long been obvious to those who dare to try, modern science has now also confirmed the long list of health benefits associated with these unique transcendent arts of the Far East.
 
 **Capacity:** No limits
 
