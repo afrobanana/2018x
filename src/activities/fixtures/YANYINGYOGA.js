@@ -3,15 +3,15 @@ import image from '../images/YANYINGYOGA.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'Take flight with AcroYoga Jam'
+export const name = 'YIN & YANG YOGA'
 export const text = `
-Dissolve your fears and tap into new and infinite possibilities of communication, trust, and union with a unique AcroYoga Jam. Combining acrobatics, yoga, and healing arts, the practice of AcroYoga has built a community of active teachers and practitioners all over the world and the ABR Festival will now witness special guest and Jambassador of AcroYoga International for Cyprus, Skevi Tofaridou Chrysou, sharing her knowledge and passion about healthier and mindful-conscious living with all of you! Prepare for an exciting blend of yoga wisdom, the dynamism of acrobatics, and the loving kindness of healing arts.
+The practice of Yin & Yang Yoga helps us to learn about stillness in movement and movement in stillness. In this highly-grounding yet energising session, yogi of all levels will tune into their inner strength, flexibility and stamina as they rise up and connect with the Yang elements; before aligning with the Yang elements to cool down, connect with the earth, stimulate the meridians, balance the inner organs and improve joint mobility. Working deeply on the connective tissues to release tension in the body, you will also learn to silence and calm the mind by synchronizing movement with breath.
 
-**Capacity:** No limits
+**Capacity:** 30 participants (Bring your own mat!)
 
-**Duration:** 1 hour
+**Duration:** 75 min
 
-**Age Group:**  All ages
+**Age Group:**  16 yrs - adulthood
 `.trim()
 
 export default {
