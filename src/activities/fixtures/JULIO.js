@@ -3,15 +3,15 @@ import image from '../images/JULIO.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'Take flight with AcroYoga Jam'
+export const name = 'RAP & BEATMAKING / PROCESS & IMPACT'
 export const text = `
-Dissolve your fears and tap into new and infinite possibilities of communication, trust, and union with a unique AcroYoga Jam. Combining acrobatics, yoga, and healing arts, the practice of AcroYoga has built a community of active teachers and practitioners all over the world and the ABR Festival will now witness special guest and Jambassador of AcroYoga International for Cyprus, Skevi Tofaridou Chrysou, sharing her knowledge and passion about healthier and mindful-conscious living with all of you! Prepare for an exciting blend of yoga wisdom, the dynamism of acrobatics, and the loving kindness of healing arts.
+Ever wanted to know how a hip-hop track is created? Well, now is your chance! This exciting workshop will take aspiring young music makers and artists-in-training through the creative process from start to finish; teaching them how to mix and produce hip-hop, create unique lyrics that pack some serious punch and deliver an engaging rap performance. Island legends of the local hip-hop scene, JUΛIO and SMILIN will also share the scoop on their own unique genre of music, inspiring and engaging young minds with the importance of music and what it can achieve on a socio-political level.
 
 **Capacity:** No limits
 
-**Duration:** 1 hour
+**Duration:** 2 hours
 
-**Age Group:**  All ages
+**Age Group:** 12+
 `.trim()
 
 export default {
