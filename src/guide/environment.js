@@ -41,8 +41,10 @@ export default () => (
           </dd>
        <dt>WHAT WE ARE HOPING TO ACHIEVE THIS YEAR:</dt>
       <dd>
-        To make the most of our brand new beachside location, our ABR architects and power engineers put their heads together and built a custom-made a device that uses the wind to generate power. Looking more like an intriguing piece of art that rotates with the air flow, the sculptural wind turbine device will power the kid’s innovation workshops, in the hopes of engaging and inspiring young people to make positive environmental changes. 
-          </dd>
+        •	To become the island’s first straw free festival – no straws will be available
+        •	To power an entire stage by wind power
+        •	To be plastic packaging free – no food vendors will be using plastic food packaging and rumour has it that some are challenging the idea of packaging at all.
+  </dd>
     </dl>
   </section>
 )
