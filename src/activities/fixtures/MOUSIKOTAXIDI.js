@@ -11,7 +11,7 @@ Children first learn about the world through music; and this engaging workshop w
 
 **Duration:** 1 hour
 
-**Age Group:**  All ages
+**Age Group:**  Children aged 6 - 12 yrs
 `.trim()
 
 export default {
