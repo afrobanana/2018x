@@ -3,9 +3,8 @@ import image from '../images/CHROMATAYFES.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'Take flight with AcroYoga Jam'
-export const text = `
-Dissolve your fears and tap into new and infinite possibilities of communication, trust, and union with a unique AcroYoga Jam. Combining acrobatics, yoga, and healing arts, the practice of AcroYoga has built a community of active teachers and practitioners all over the world and the ABR Festival will now witness special guest and Jambassador of AcroYoga International for Cyprus, Skevi Tofaridou Chrysou, sharing her knowledge and passion about healthier and mindful-conscious living with all of you! Prepare for an exciting blend of yoga wisdom, the dynamism of acrobatics, and the loving kindness of healing arts.
+export const name = 'COLOURS, TEXTURES, FLAVOURS, SMELLS'
+export const text = `What do we eat, and why? How do we eat it, and where does it come from? What do we want from the meals, and what do we need? And what roles do our body, mind, soul, society and economic standing, play in our lives? If these are questions you want to know the answers to, join in for this inspiring and educational food workshop, and experiment with new ingredients such as dry and fresh fruits, vegetables and herbs. Everyone is welcome.
 
 **Capacity:** No limits
 
