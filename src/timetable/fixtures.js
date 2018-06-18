@@ -23,6 +23,11 @@ export const STAGE5 = {
   type: 'activity',
   displayOrder: 4,
 }
+export const STAGE6 = {
+  name: 'BEACH DOME ACTIVITIES',
+  type: 'activity',
+  displayOrder: 5,
+}
 
 export default [
   //THE ARC FRIDAY
@@ -190,6 +195,123 @@ export default [
     date: new Date('07/22/2018 18:00'),
     stage: STAGE4,
   },
+  
+  //BEACH DOME SATURDAY
 
-
+      {
+    id: 'YANYINGYOGA',
+    date: new Date('07/21/2018 10:00'),
+    stage: STAGE6,
+  },
+    {
+    id: 'PARTNERYOGA',
+    date: new Date('07/21/2018 12:00'),
+    stage: STAGE6,
+  },
+    {
+    id: 'CAPOEIRA',
+    date: new Date('07/21/2018 14:30'),
+    stage: STAGE6,
+  },
+   {
+    id: 'ACROYOGA',
+    date: new Date('07/21/2018 16:30'),
+    stage: STAGE6,
+  },
+  {
+    id: 'TAICHI',
+    date: new Date('07/21/2018 19:00'),
+    stage: STAGE6,
+  },
+  
+  //BEACH DOME SUNDAY
+   {
+    id: 'YANYINGYOGA',
+    date: new Date('07/22/2018 10:00'),
+    stage: STAGE6,
+  },
+    {
+    id: 'ACROYOGA',
+    date: new Date('07/22/2018 12:00'),
+    stage: STAGE6,
+  },
+   {
+    id: 'CAPOEIRA',
+    date: new Date('07/22/2018 14:30'),
+    stage: STAGE6,
+  },
+   {
+    id: 'PARTNER YOGA',
+    date: new Date('07/22/2018 16:30'),
+    stage: STAGE6,
+  },
+  {
+    id: 'TAICHI',
+    date: new Date('07/22/2018 19:30'),
+    stage: STAGE6,
+  },
+  
+  //KIDS INNOVATION SATURDAY
+  {
+    id: 'KIDSYOGA',
+    date: new Date('07/21/2018 9:30'),
+    stage: STAGE5,
+  },
+  {
+    id: 'BABYMAESTRO',
+    date: new Date('07/21/2018 10:30'),
+    stage: STAGE5,
+  },
+  {
+    id: 'BIGIBANG',
+    date: new Date('07/21/2018 12:00'),
+    stage: STAGE5,
+  },
+  {
+    id: 'MOUSIKOTAXIDI',
+    date: new Date('07/21/2018 13:30'),
+    stage: STAGE5,
+  },
+   {
+    id: 'PERPATOPERPATO',
+    date: new Date('07/21/2018 15:00'),
+    stage: STAGE5,
+  },
+   {
+    id: 'JULIO',
+    date: new Date('07/21/2018 16:30'),
+    stage: STAGE5,
+  },
+   {
+    id: 'MARIMBA',
+    date: new Date('07/21/2018 19:00'),
+    stage: STAGE5,
+  },
+  
+  //KIDS INNOVATION SUNDAY
+  {
+    id: 'KIDSYOGA',
+    date: new Date('07/22/2018 9:30'),
+    stage: STAGE5,
+  },
+  {
+    id: 'CAPOEIRAFAM',
+    date: new Date('07/22/2018 11:00'),
+    stage: STAGE5,
+  },
+  {
+    id: 'FTIAXEPARAMYTHI',
+    date: new Date('07/22/2018 14:00'),
+    stage: STAGE5,
+  },
+  {
+    id: 'CHROMATA YFES',
+    date: new Date('07/22/2018 15:30'),
+    stage: STAGE5,
+  },
+   {
+    id: 'LIFESTORIES',
+    date: new Date('07/22/2018 18:00'),
+    stage: STAGE5,
+  },
 ]
