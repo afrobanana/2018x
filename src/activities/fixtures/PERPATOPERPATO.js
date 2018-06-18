@@ -11,7 +11,7 @@ Narration: Elenitsa Georgiou (Music teacher, Narrator)
 Musical Accompaniment: Christina Polycarpou (Musician)
 
 
-**Capacity:** No limits
+**Capacity:** 60 participants
 
 **Duration:** 1 hour
 
