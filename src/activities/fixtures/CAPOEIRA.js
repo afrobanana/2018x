@@ -3,15 +3,15 @@ import image from '../images/CAPOEIRA.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'Take flight with AcroYoga Jam'
+export const name = 'CAPOEIRA ADULT TASTER CLASS'
 export const text = `
-Dissolve your fears and tap into new and infinite possibilities of communication, trust, and union with a unique AcroYoga Jam. Combining acrobatics, yoga, and healing arts, the practice of AcroYoga has built a community of active teachers and practitioners all over the world and the ABR Festival will now witness special guest and Jambassador of AcroYoga International for Cyprus, Skevi Tofaridou Chrysou, sharing her knowledge and passion about healthier and mindful-conscious living with all of you! Prepare for an exciting blend of yoga wisdom, the dynamism of acrobatics, and the loving kindness of healing arts.
+At this exciting and energising taster class, participants will learn about the unusual history behind this fascinating and uplifting Brazilian martial art, at the same time getting to grips with the unique movements and music. Driven by a desire to bring people together and experience something totally new and different, your instructor is a master at encouraging you to let go, be free, loosen up and leave your inhibitions behind!
 
 **Capacity:** No limits
 
 **Duration:** 1 hour
 
-**Age Group:**  All ages
+**Age Group:**  16+
 `.trim()
 
 export default {
