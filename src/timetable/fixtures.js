@@ -223,6 +223,11 @@ export default [
     date: new Date('07/21/2018 19:00'),
     stage: STAGE6,
   },
+    {
+    id: 'ACEPLAYGROUND',
+    date: "ALL DAY",
+    stage: STAGE6,
+  },
   
   //BEACH DOME SUNDAY
    {
@@ -248,6 +253,11 @@ export default [
   {
     id: 'TAICHI',
     date: new Date('07/22/2018 19:30'),
+    stage: STAGE6,
+  },
+   {
+    id: 'ACEPLAYGROUND',
+    date: "ALL DAY",
     stage: STAGE6,
   },
   
