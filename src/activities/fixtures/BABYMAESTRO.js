@@ -3,15 +3,15 @@ import image from '../images/BABYMAESTRO.jpg'
 export const photo = image
 
 // Markdown fields
-export const name = 'Take flight with AcroYoga Jam'
+export const name = 'MC BABY MAESTRO'
 export const text = `
-Dissolve your fears and tap into new and infinite possibilities of communication, trust, and union with a unique AcroYoga Jam. Combining acrobatics, yoga, and healing arts, the practice of AcroYoga has built a community of active teachers and practitioners all over the world and the ABR Festival will now witness special guest and Jambassador of AcroYoga International for Cyprus, Skevi Tofaridou Chrysou, sharing her knowledge and passion about healthier and mindful-conscious living with all of you! Prepare for an exciting blend of yoga wisdom, the dynamism of acrobatics, and the loving kindness of healing arts.
+Exposure to music plays a huge role in the development of very young children, helping them to improve speech and motor skills, as well as strengthen both social and emotional capacities and the connection between the body and brain. In this fun, entertaining and interactive workshop, you and your little one will experiment with different melodic and percussion instruments, as well as singing and dancing, all under the expert guidance of music teacher, Christina Charalambidou and jazz pianist, Marios Toumba. 
 
-**Capacity:** No limits
+**Capacity:** 15 participants
 
 **Duration:** 1 hour
 
-**Age Group:**  All ages
+**Age Group:**  Children aged 1 - 5 yrs
 `.trim()
 
 export default {
