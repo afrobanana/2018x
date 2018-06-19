@@ -3,7 +3,7 @@ var pgk = require('../package.json')
 
 console.log(`Deploying ${ pgk.name }, release ${ pgk.version } to Github...`)
 
-ghpages.publish('public', {
+ghpages.publish('build', {
     src: '**/*',
     tag: `release-${ pgk.version }`,
     message: `Release ${ pgk.version }`,
