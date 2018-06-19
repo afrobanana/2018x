@@ -27,13 +27,15 @@ class Timetable extends PureComponent {
   renderDays() {
     const days = slotsByDate(timetableSlots)
 
-    return Object.keys(days).sort().map((day, i) =>
-      this.renderDay({
-        day,
-        slots: days[day],
-        key: i,
-      })
-    )
+    return Object.keys(days)
+      .sort()
+      .map((day, i) =>
+        this.renderDay({
+          day,
+          slots: days[day],
+          key: i,
+        })
+      )
   }
 
   renderDay({ day, slots, key }) {
@@ -82,7 +84,7 @@ class Timetable extends PureComponent {
             )
             return (
               <p key={i} className="entry">
-                <em className="time">{ label || dateTime(date)}</em>
+                <em className="time">{label || dateTime(date)}</em>
                 <br />
                 {link}
               </p>

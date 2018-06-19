@@ -10,7 +10,6 @@ export const text = `
 With  a  devotion  to  electronic  music  and  broad  music  knowledge  in  general,  Marcos’s  selection  of  disco  and  house  blended  with  Balearic  and  Afro-beat  sounds,  will  set  the  mood  for  an  adventurous  musical  journey.  A  newcomer  at  ABR  Festival, he  is  usually  seen  playing  groovy  dj  sets  at  numerous  venues  and  parties  across  the  island.
 `.trim()
 
-
 export default {
   name,
   genres,
