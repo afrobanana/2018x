@@ -7,12 +7,15 @@ import timetableSlots from './fixtures'
 import { ActivityLink, getActivityById } from '../activities'
 import { ArtistLink, getArtistById } from '../artists'
 
-export const dateHeading = date =>
-  dateformat(
-    // if earlier than 7am consider it as part of the previous date
-    date.getHours() < 7 ? date.setDate(date.getDate() - 1) && date : date,
-    'dddd, dd mmmm'
-  )
+export const dateHeading = date => {
+  // if earlier than 7am consider it as part of the previous date
+  if (date.getHours() < 7) {
+    date = new Date(date)
+    date.setDate(date.getDate() - 1)
+  }
+
+  return dateformat(date, 'dd mmmm yyyy / dddd')
+}
 
 export const dateTime = date => dateformat(date, 'HH:MM')
 
@@ -24,7 +27,7 @@ class Timetable extends PureComponent {
   renderDays() {
     const days = slotsByDate(timetableSlots)
 
-    return Object.keys(days).map((day, i) =>
+    return Object.keys(days).sort().map((day, i) =>
       this.renderDay({
         day,
         slots: days[day],
