@@ -132,7 +132,7 @@ export default [
     stage: STAGE3,
   },
   {
-    id: 'MIGHTY-SUGARCANE',
+    id: 'MIGHT-SUGARCANE',
     date: new Date('07/20/2018 20:30'),
     stage: STAGE3,
   },
@@ -247,7 +247,7 @@ export default [
     stage: STAGE6,
   },
   {
-    id: 'PARTNER YOGA',
+    id: 'PARTNERYOGA',
     date: new Date('07/22/2018 16:30'),
     stage: STAGE6,
   },
@@ -317,7 +317,7 @@ export default [
     stage: STAGE5,
   },
   {
-    id: 'CHROMATA YFES',
+    id: 'CHROMATAYFES',
     date: new Date('07/22/2018 15:30'),
     stage: STAGE5,
   },
