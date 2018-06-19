@@ -1,5 +1,5 @@
-import image from '../images/FAMILYCAPOEIRA.jpg'
-
+// import image from '../images/FAMILYCAPOEIRA.jpg'
+const image = ''
 export const photo = image
 
 // Markdown fields

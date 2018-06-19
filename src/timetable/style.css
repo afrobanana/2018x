@@ -13,6 +13,7 @@
 }
 .timetable .entry a {
     color: #000;
+    text-decoration: underline;
 }
 
 .timetable .entry a em {

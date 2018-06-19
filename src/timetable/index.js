@@ -66,7 +66,7 @@ class Timetable extends PureComponent {
         <h3>{stage.name}</h3>
         {slots
           .sort((a, b) => (a.date < b.date ? -1 : 1))
-          .map(({ id, date }, i) => {
+          .map(({ id, date, label }, i) => {
             const entry = isActivity ? getActivityById(id) : getArtistById(id)
             const link = entry ? (
               isActivity ? (
@@ -79,7 +79,7 @@ class Timetable extends PureComponent {
             )
             return (
               <p key={i} className="entry">
-                <em className="time">{dateTime(date)}</em>
+                <em className="time">{ label || dateTime(date)}</em>
                 <br />
                 {link}
               </p>

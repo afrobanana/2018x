@@ -4,7 +4,7 @@ import Newsletter from '../newsletter'
 
 import './style.css'
 import logoImg from './images/abr-logo.png'
-import sponsorsImg from './images/sponsors.png'
+// import sponsorsImg from './images/sponsors.png'
 
 export default () => (
   <section className="about">
@@ -44,7 +44,7 @@ export default () => (
     </div>
     <Newsletter />
     <p className="sponsors">
-      <img src={sponsorsImg} alt="These are good people" />
+      {/*<img src={sponsorsImg} alt="These are good people" />*/}
     </p>
   </section>
 )

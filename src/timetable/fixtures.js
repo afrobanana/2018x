@@ -195,7 +195,7 @@ export default [
     date: new Date('07/22/2018 18:00'),
     stage: STAGE4,
   },
-  
+
   //BEACH DOME SATURDAY
 
       {
@@ -225,10 +225,11 @@ export default [
   },
     {
     id: 'ACEPLAYGROUND',
-    date: "ALL DAY",
+    label: 'ALL DAY',
+    date: new Date('07/21/2018'),
     stage: STAGE6,
   },
-  
+
   //BEACH DOME SUNDAY
    {
     id: 'YANYINGYOGA',
@@ -257,10 +258,11 @@ export default [
   },
    {
     id: 'ACEPLAYGROUND',
-    date: "ALL DAY",
+    date: new Date('07/22/2018'),
+    label: 'ALL DAY',
     stage: STAGE6,
   },
-  
+
   //KIDS INNOVATION SATURDAY
   {
     id: 'KIDSYOGA',
@@ -297,7 +299,7 @@ export default [
     date: new Date('07/21/2018 19:00'),
     stage: STAGE5,
   },
-  
+
   //KIDS INNOVATION SUNDAY
   {
     id: 'KIDSYOGA',

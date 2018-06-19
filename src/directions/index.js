@@ -2,7 +2,6 @@ import React, { PureComponent } from 'react'
 
 import Thumbnail from '../Thumbnail'
 import './style.css'
-import directionsImg from './images/directions.png'
 import mapImg from './images/google-map.png'
 
 export default class Directions extends PureComponent {
@@ -71,11 +70,6 @@ export default class Directions extends PureComponent {
               <img src={mapImg} alt="Google Map" />
             </a>
           </Thumbnail>
-          <Thumbnail className="box">
-            <a href={directionsImg} target="_blank" rel="noopener noreferrer">
-              <img src={directionsImg} alt="directions" />
-            </a>
-          </Thumbnail>
         </div>
         <div className="directions-drive box-container">
           <div className="box">
@@ -90,9 +84,7 @@ export default class Directions extends PureComponent {
               <li>Continue straight through the village for about 5km, at the roundabout just after the Police station take the third exit.</li>
               <li>Keep Straight for about 8km and turn LEFT at the big AFROBANANA sign.</li>
               <li>At the end of the road turn LEFT and you will see the festival on your RIGHT.</li>
-              <br />
-                Crew assistants and signage will direct you to the Parking Area.
-              </li>
+              <li>Crew assistants and signage will direct you to the Parking Area.</li>
             </ol>
           </div>
           <div className="box">
@@ -108,12 +100,7 @@ export default class Directions extends PureComponent {
               <li>At the end of the road turn LEFT on the coastal road.</li>
               <li>Keep going STRAIGHT for 24 km.</li>
               <li>You will then see the festival on your RIGHT.</li>
-              <br />Crew assistants and signage will direct you to the Parking Area</li>
-    
-              </li>
-            </ol>
-          </div>
-              </li>
+              <li>Crew assistants and signage will direct you to the Parking Area</li>
             </ol>
           </div>
         </div>
