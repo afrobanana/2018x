@@ -3,7 +3,6 @@
     width: 100%;
 }
 .timetable-day-heading sup {
-  animation: freeEntry 1.3s ease-in-out infinite alternate;
   background-color: #e785b7;
   color: #fff;
   display: inline-block;
@@ -12,8 +11,6 @@
   line-height: 1;
   margin-left: 1rem;
   padding: 0.5rem;
-  transform-origin: 50% 50%;
-  transform: translate3d(0,0,0);
 }
 .timetable .box.activity h3 {
     color: #e785b7;
