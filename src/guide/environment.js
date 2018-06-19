@@ -8,12 +8,12 @@ export default () => (
     <dl>
       <dt>MEDICAL HELP & EMERGENCIES</dt>
       <dd>
-        A team of professional medics will be on-site 24/7 throughout the event, always on hand to provide first aid and medical assistance in case of emergencies. If help is needed, please contact your nearest security guard or member of the AfroBanana team. 
+        A team of professional medics will be on-site 24/7 throughout the event, always on hand to provide first aid and medical assistance in case of emergencies. If help is needed, please contact your nearest security guard or member of the AfroBanana team.
       </dd>
 
       <dt>FIRE SAFETY</dt>
       <dd>
-        Cyprus gets very hot and very dry in the summer month, so we take fire safety at AfroBanana Festival very seriously. Fires spread quickly, and easily so lighting them is strictly forbidden anywhere on site. You’re here to party, not burn the whole place to the ground! Stay aware and if there’s one rule you stick to, make it this one!  
+        Cyprus gets very hot and very dry in the summer month, so we take fire safety at AfroBanana Festival very seriously. Fires spread quickly, and easily so lighting them is strictly forbidden anywhere on site. You’re here to party, not burn the whole place to the ground! Stay aware and if there’s one rule you stick to, make it this one!
       </dd>
 
       <dt>CLEANLINESS & RECYCLING</dt>
@@ -37,14 +37,16 @@ export default () => (
       </dd>
       <dt>WIND TURBINES</dt>
       <dd>
-        To make the most of our brand new beachside location, our ABR architects and power engineers put their heads together and built a custom-made a device that uses the wind to generate power. Looking more like an intriguing piece of art that rotates with the air flow, the sculptural wind turbine device will power the kid’s innovation workshops, in the hopes of engaging and inspiring young people to make positive environmental changes. 
+        To make the most of our brand new beachside location, our ABR architects and power engineers put their heads together and built a custom-made a device that uses the wind to generate power. Looking more like an intriguing piece of art that rotates with the air flow, the sculptural wind turbine device will power the kid’s innovation workshops, in the hopes of engaging and inspiring young people to make positive environmental changes.
           </dd>
        <dt>WHAT WE ARE HOPING TO ACHIEVE THIS YEAR:</dt>
       <dd>
-        •	To become the island’s first straw free festival – no straws will be available
-        •	To power an entire stage by wind power
-        •	To be plastic packaging free – no food vendors will be using plastic food packaging and rumour has it that some are challenging the idea of packaging at all.
-  </dd>
+        <ol>
+          <li>To become the island’s first straw free festival – no straws will be available</li>
+          <li>To power an entire stage by wind power</li>
+          <li>To be plastic packaging free – no food vendors will be using plastic food packaging and rumour has it that some are challenging the idea of packaging at all.</li>
+        </ol>
+      </dd>
     </dl>
   </section>
 )
