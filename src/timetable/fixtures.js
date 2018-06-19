@@ -226,7 +226,7 @@ export default [
   {
     id: 'ACEPLAYGROUND',
     label: 'ALL DAY',
-    date: new Date('07/21/2018'),
+    date: new Date('07/21/2018 08:00'),
     stage: STAGE6,
   },
 
@@ -258,7 +258,7 @@ export default [
   },
   {
     id: 'ACEPLAYGROUND',
-    date: new Date('07/22/2018'),
+    date: new Date('07/22/2018 08:00'),
     label: 'ALL DAY',
     stage: STAGE6,
   },
