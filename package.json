@@ -1,9 +1,9 @@
 {
   "name": "abr-2018",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "author": "rudasn@gmail.com",
   "private": true,
-  "homepage": "https://2018x.afrobananarepublic.com",
+  "homepage": "https://2018.afrobananarepublic.com",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "dateformat": "^3.0.3",
