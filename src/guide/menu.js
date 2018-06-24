@@ -83,17 +83,12 @@ export default () => (
         and desserts. Guided by a deep-set respect for nature and the
         environment, the team focuses on using only natural and organic seasonal
         raw materials from local producers, to carefully and lovingly prepare
-        healthy meals, such as baked vegetarian burgers, falafel, vegetable
-        wraps and delicious sauces, curries, burritos, soups and salads.
+        healthy meals.
       </dd>
-
-      <dt>SMOKEY DEE'S </dt>
+  
+      <dt>THE POTBELLY</dt>
       <dd>
-        Hand’s down the best and the oldest slow smoked American BBQ in Cyprus,
-        Smokey Dee’s serves up 13-hour shredded smoked pork roast and shredded
-        beef brisket tacos or nachos, with a contemporary twist. Smokey Dee’s
-        signature BBQ sauce and zesty pineapple Pico de Gallo complete the
-        serving for an explosive taste sensation you won’t forget.
+        The Potbelly
       </dd>
 
       <dt>Karozzeria</dt>
