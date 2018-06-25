@@ -88,7 +88,10 @@ export default () => (
   
       <dt>THE POTBELLY</dt>
       <dd>
-        The Potbelly
+        If its mouth-watering pulled pork or delectable pulled chicken that you are craving, head over to The
+Potbelly, where only the very best quality ingredients are carefully selected and expertly prepared
+fresh every day. The result? Tasty delights to satiate the hunger pangs and tantalise the taste buds of
+all you ravenous festival fiends.
       </dd>
 
       <dt>Karozzeria</dt>
