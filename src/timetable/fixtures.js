@@ -127,7 +127,7 @@ export default [
   //MAIN STAGE FRIDAY
 
   {
-    id: "DJ XYDIAS",
+    id: 'DJ XYDIAS',
     date: new Date('07/20/2018 19:30'),
     stage: STAGE3,
   },
