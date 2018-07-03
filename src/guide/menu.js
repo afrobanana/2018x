@@ -27,10 +27,11 @@ export default () => (
 
       <dt>PEAR & PAIR</dt>
       <dd>
-        Professional mixologists from Pear &amp; Pair will be teasing your taste
-        buds this year with fabulous cocktails curation. There will also be
-        beers available, frothy frappes, specialty coffees, fruit juices and
+        Professional mixologists from Pear & Pair will be teasing your taste
+        buds this year with fabulous cocktails curation.  In collaboration with those who embrace the unconventional, the unique and the original, grab your favourite J&B drink and join the fun!
+        There will also be beers available, frothy frappes, specialty coffees, fruit juices and
         plenty of other refreshments to quench your thirst.
+
       </dd>
 
       <dt>The Gym Concept</dt>
