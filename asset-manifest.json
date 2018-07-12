@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.c72f3f22.css",
   "main.css.map": "static/css/main.c72f3f22.css.map",
-  "main.js": "static/js/main.1e2bc03c.js",
-  "main.js.map": "static/js/main.1e2bc03c.js.map",
+  "main.js": "static/js/main.dcb6c9e3.js",
+  "main.js.map": "static/js/main.dcb6c9e3.js.map",
   "static/media/ACEPLAYGROUND.jpg": "static/media/ACEPLAYGROUND.73d6452d.jpg",
   "static/media/ACROYOGA.jpg": "static/media/ACROYOGA.ec3bd5e6.jpg",
   "static/media/AFRODYSSEY-ORCHESTRA.jpg": "static/media/AFRODYSSEY-ORCHESTRA.2af109f5.jpg",
@@ -66,6 +66,7 @@
   "static/media/landing.jpg": "static/media/landing.f61dccf8.jpg",
   "static/media/map.png": "static/media/map.3cecbd69.png",
   "static/media/poster.jpg": "static/media/poster.e4a2da36.jpg",
+  "static/media/sponsors.png": "static/media/sponsors.9a557430.png",
   "static/media/ticket.svg": "static/media/ticket.368df8d0.svg",
   "static/media/twitter.svg": "static/media/twitter.d06c6d98.svg"
 }
