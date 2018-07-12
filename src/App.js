@@ -122,7 +122,7 @@ class App extends PureComponent {
         <p className="copyright">
           Copyright &copy; {new Date().getUTCFullYear()} Alternative Brains Rule
           <br />
-          <a href="https://github.com/afrobanana/2018">
+          <a href="https://github.com/afrobanana/2018x">
             <small>{process.env.REACT_APP_VERSION}</small>
           </a>
         </p>
