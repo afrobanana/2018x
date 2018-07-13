@@ -159,7 +159,7 @@ export default [
     stage: STAGE3,
   },
   {
-    id: 'EBO-TAYLOR',
+    id: 'MAUS',
     date: new Date('07/21/2018 22:00'),
     stage: STAGE3,
   },
